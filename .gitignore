@@ -1,3 +1,13 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/SEG-2022-23-medians-Jemarlow/v17/.suo
+/.vs/SEG-2022-23-medians-Jemarlow/v17
+/.vs/SEG-2022-23-medians-Jemarlow/FileContentIndex/read.lock
+/.vs/SEG-2022-23-medians-Jemarlow/FileContentIndex/2be1db1b-635a-40f8-b884-8d7500e99f7e.vsidx
+/.vs/SEG-2022-23-medians-Jemarlow/FileContentIndex
+/.vs/SEG-2022-23-medians-Jemarlow
+/.vs/ProjectSettings.json
+/.vs
